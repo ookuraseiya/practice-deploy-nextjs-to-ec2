@@ -1,2 +1,324 @@
 [00:00:00.706] Server  LOG     ✓ Ready in 544ms
 [00:00:05.848] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:56.543] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.544] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.544] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.545] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.546] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.546] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.546] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.547] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.547] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.547] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.548] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:56.548] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:03:57.404] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:01.988] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:02.110] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:02.492] Browser ERROR   uncaughtError: Error: ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:02.645] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:02.645] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../styles/Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../styles/Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:05.243] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:05.244] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:05.378] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:06.989] Server  ERROR   ⨯ ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:07.076] Browser ERROR   uncaughtError: Error: ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:04:07.225] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
+[00:04:07.225] Browser ERROR   ./src/app/page.tsx:2:1
+Module not found: Can't resolve '../Home.module.css'
+  1 | import Head from 'next/head';
+> 2 | import styles from '../Home.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export default function Home() {
+  5 |   return (
+
+https://nextjs.org/docs/messages/module-not-found
