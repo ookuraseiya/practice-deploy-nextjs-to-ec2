@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/seiya/Desktop/me/development/practice-deploy-nextjs-to-ec2/src/app/projects/page.tsx"],"sourcesContent":["import Link from 'next/link';\n\nexport default function Projects() {\n  return (\n    <main>\n      <h1>Projects</h1>\n      <p>Todo App (Next.js + Express + MySQL)</p>\n\n      <Link href='/'>Back to Home</Link>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;0BAEH,8OAAC,0LAAI;gBAAC,MAAK;0BAAI;;;;;;;;;;;;AAGrB"}}]
+}

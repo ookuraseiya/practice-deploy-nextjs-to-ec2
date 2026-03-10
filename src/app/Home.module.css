@@ -29,3 +29,19 @@
 .section li {
   margin-bottom: 5px;
 }
+
+.nav {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #0070f3;
+  font-weight: bold;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}

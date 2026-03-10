@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Link from 'next/link';
 import styles from './Home.module.css';
 
 export default function Home() {
@@ -11,6 +12,12 @@ export default function Home() {
 
       <main className={styles.container}>
         <h1 className={styles.title}>AWS Practice Site</h1>
+
+        <nav className={styles.nav}>
+          <Link href='/about'>About</Link>
+          <Link href='/projects'>Projects</Link>
+          <Link href='/contact'>Contact</Link>
+        </nav>
 
         <section className={styles.section}>
           <h2>About</h2>
