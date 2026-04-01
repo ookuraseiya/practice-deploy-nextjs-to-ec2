@@ -1,37 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Next.js × AWS デプロイ構成（EC2 + ALB + Route53）
+## 📌 概要
 
-## Getting Started
+過去に業務でAWSを使用していましたが、期間が空いてしまったため、
+復習を目的として Next.jsアプリケーションの本番デプロイ構成を一から構築しました。
 
-First, run the development server:
+インフラ〜アプリケーション公開までを一貫して実装しています。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🏗️ 構成図
+<img width="550" height="500" alt="AWS 構成図 drawio" src="https://github.com/user-attachments/assets/9cbe22da-231b-491e-9175-85fc7de99248" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# practice-deploy-nextjs-to-ec2
+## 🧩 技術構成
+- フロントエンド
+  - Next.js
+  - TypeScript
+- インフラ
+  - EC2（アプリケーションサーバ）
+  - Nginx（リバースプロキシ）
+  - ALB（Application Load Balancer）
+  - Route53（DNS）
+  - ACM（SSL証明書）
+  - VPC / Subnet（Public構成）
+- ドメイン
+  - お名前.com（ドメイン取得）
+  - Route53へ委任
