@@ -7,7 +7,7 @@
 インフラ〜アプリケーション公開までを一貫して実装しています。（[デプロイ先リンク](https://practice-deploy-nextjs-to-ec2.com)
 
 ## 🏗️ 構成図
-<img width="550" height="500" alt="AWS 構成図 drawio" src="https://github.com/user-attachments/assets/9cbe22da-231b-491e-9175-85fc7de99248" />
+<img width="550" height="500" alt="AWS フロントエンド new drawio" src="https://github.com/user-attachments/assets/4635a93a-bf1c-459f-8b49-d6b63c743ac7" />
 
 
 
@@ -21,6 +21,8 @@
   - Route53（DNS）
   - ACM（SSL証明書）
   - VPC / Subnet（Public構成）
+  - IGW（Internet Gateway）
+
 - ドメイン
   - お名前.com（ドメイン取得）
   - Route53へ委任
